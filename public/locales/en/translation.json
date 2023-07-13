@@ -1,0 +1,9 @@
+{
+    "main":{
+        "header":"Welcome to this app",
+        "new_message_zero":"You have no message",
+        "new_message_one":"You have one message",
+        "new_message_other":"You have {{count}} new messages",
+        "current_date":"Today is {{date, DATE_LONG}}"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "main":{
+        "header":"नमस्ते",
+        "new_message_zero":"आपके पास कोई संदेश नहीं है",
+        "new_message_one":"आपके पास एक संदेश है",
+        "new_message_other":"आपके पास {{count}} नए संदेश हैं",
+        "current_date":"आज {{date, DATE_LONG}} हैं"
+    }
+}

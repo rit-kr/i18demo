@@ -1,0 +1,9 @@
+{
+    "main":{
+        "header":"안녕하세요",
+        "new_message_zero":"메시지가 없습니다",
+        "new_message_one":"메시지가 하나 있습니다",
+        "new_message_other":"새 메시지가 {{count}}개 있습니다",
+        "current_date":"오늘은 {{date, DATE_LONG}}입니다"
+    }
+}
